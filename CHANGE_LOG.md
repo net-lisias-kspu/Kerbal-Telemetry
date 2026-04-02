@@ -1,5 +1,10 @@
 # Kerbal Telemetry /L Unleashed :: Change Log
 
+* 2022-1128: 2.4.0 (yagiziskirik) for KSP 1.12.4
+	+ Fixed [#20](https://github.com/yagiziskirik/Kerbal-Telemetry/issues/20).
+	+ Fixed [#22](https://github.com/yagiziskirik/Kerbal-Telemetry/issues/22).
+	+ [FEATURE] New part has been added in order to use the mod.
+	+ [FEATURE] Users now can change the port.
 * 2022-0612: 2.3.0 (yagiziskirik) for KSP 1.12.3
 	+ Fixed [#11](https://github.com/yagiziskirik/Kerbal-Telemetry/issues/11).
 	+ Fixed [#12](https://github.com/yagiziskirik/Kerbal-Telemetry/issues/12).
