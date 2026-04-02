@@ -1,5 +1,11 @@
 # Kerbal Telemetry /L Unleashed :: Change Log
 
+* 2022-0612: 2.3.0 (yagiziskirik) for KSP 1.12.3
+	+ Fixed [#11](https://github.com/yagiziskirik/Kerbal-Telemetry/issues/11).
+	+ Fixed [#12](https://github.com/yagiziskirik/Kerbal-Telemetry/issues/12).
+	+ All the dependencies and Python requirement has been removed.
+	+ Lightened the user interface.
+	+ [FEATURE] Now mobile phones can also use part of the program since it is lighter.
 * 2021-0415: 2.2.0 (yagiziskirik) for KSP 1.11.2
 	+ Minor bug fixes.
 	+ Fixed [#1](https://github.com/yagiziskirik/Kerbal-Telemetry/issues/1) Chinese characters error.
